@@ -6,7 +6,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const message = document.getElementById('message').value;
     const telegram= document.getElementById('telegram').value;
     
-    const token = '7648378330:AAEAq0udVYtsHePwOsFOcpRVYSl1Ivnm5uI'; // Ganti dengan token bot Anda
+    const token = '7686748052:AAHQe5nOPpzY2pA6BKpYlKMaje6g4j9B92k'; // Ganti dengan token bot Anda
     const chatId = '6387471971'; // Ganti dengan ID chat Anda
 
     const text = `Nama: ${name}\nNomor: ${telegram}`;
